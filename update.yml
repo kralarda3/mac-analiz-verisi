@@ -1,0 +1,51 @@
+# Bu dosyayı GitHub reponda .github/workflows/update.yml olarak kaydet.
+#
+# KURULUM ADIMLARI:
+# 1. github.com'da yeni, PUBLIC bir repo oluştur (örn. "mac-analiz-verisi")
+# 2. mac-verisi-cek.py dosyasını bu reponun köküne yükle
+# 3. Bu dosyayı .github/workflows/update.yml olarak yükle
+# 4. Repo Settings -> Secrets and variables -> Actions -> "New repository secret"
+#    Adı: FOOTBALL_DATA_API_KEY, Değeri: football-data.org'dan aldığın anahtar
+# 5. Repo Settings -> Pages -> Source: "main" branch, "/ (root)" -> Save
+#    (Bu, fixtures.json'u herkese açık bir URL üzerinden erişilebilir yapar:
+#     https://KULLANICI_ADIN.github.io/mac-analiz-verisi/fixtures.json)
+# 6. Actions sekmesinden workflow'u "Run workflow" ile elle bir kez tetikle,
+#    ardından her hafta Pazartesi 06:00 UTC'de otomatik çalışacak.
+
+name: Haftalık Maç Verisi Güncelleme
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"  # Her Pazartesi 06:00 UTC (09:00 TR saati)
+  workflow_dispatch:  # Elle tetiklemeye izin verir
+
+permissions:
+  contents: write
+
+jobs:
+  update-fixtures:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repo'yu klonla
+        uses: actions/checkout@v4
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Bağımlılıkları kur
+        run: pip install requests
+
+      - name: Maç verisini çek
+        env:
+          FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
+        run: python mac-verisi-cek.py
+
+      - name: fixtures.json'u commit'le
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add fixtures.json
+          git diff --staged --quiet || git commit -m "Otomatik maç verisi güncellemesi"
+          git push
