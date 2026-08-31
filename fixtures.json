@@ -1,77 +1,7 @@
 {
-  "updated_at": "2026-08-24T07:07:43.387947Z",
-  "match_count": 57,
+  "updated_at": "2026-08-31T13:13:57.472459Z",
+  "match_count": 54,
   "matches": [
-    {
-      "id": "PL-560551",
-      "competition": "Premier League",
-      "home": "Fulham FC",
-      "away": "Chelsea FC",
-      "date_iso": "2026-08-24T19:00:00Z"
-    },
-    {
-      "id": "PL-560555",
-      "competition": "Premier League",
-      "home": "Crystal Palace FC",
-      "away": "Manchester City FC",
-      "date_iso": "2026-08-28T19:00:00Z"
-    },
-    {
-      "id": "PL-560552",
-      "competition": "Premier League",
-      "home": "Liverpool FC",
-      "away": "Nottingham Forest FC",
-      "date_iso": "2026-08-29T11:30:00Z"
-    },
-    {
-      "id": "PL-560560",
-      "competition": "Premier League",
-      "home": "AFC Bournemouth",
-      "away": "Everton FC",
-      "date_iso": "2026-08-29T14:00:00Z"
-    },
-    {
-      "id": "PL-560561",
-      "competition": "Premier League",
-      "home": "Coventry City FC",
-      "away": "Hull City AFC",
-      "date_iso": "2026-08-29T14:00:00Z"
-    },
-    {
-      "id": "PL-560558",
-      "competition": "Premier League",
-      "home": "Tottenham Hotspur FC",
-      "away": "Newcastle United FC",
-      "date_iso": "2026-08-29T16:30:00Z"
-    },
-    {
-      "id": "PL-560554",
-      "competition": "Premier League",
-      "home": "Sunderland AFC",
-      "away": "Fulham FC",
-      "date_iso": "2026-08-30T13:00:00Z"
-    },
-    {
-      "id": "PL-560556",
-      "competition": "Premier League",
-      "home": "Chelsea FC",
-      "away": "Brighton & Hove Albion FC",
-      "date_iso": "2026-08-30T13:00:00Z"
-    },
-    {
-      "id": "PL-560559",
-      "competition": "Premier League",
-      "home": "Leeds United FC",
-      "away": "Brentford FC",
-      "date_iso": "2026-08-30T13:00:00Z"
-    },
-    {
-      "id": "PL-560553",
-      "competition": "Premier League",
-      "home": "Manchester United FC",
-      "away": "Ipswich Town FC",
-      "date_iso": "2026-08-30T15:30:00Z"
-    },
     {
       "id": "PL-560557",
       "competition": "Premier League",
@@ -80,102 +10,74 @@
       "date_iso": "2026-08-31T19:00:00Z"
     },
     {
-      "id": "PD-564639",
-      "competition": "Primera Division",
-      "home": "CA Osasuna",
-      "away": "Levante UD",
-      "date_iso": "2026-08-24T17:30:00Z"
+      "id": "PL-560566",
+      "competition": "Premier League",
+      "home": "Ipswich Town FC",
+      "away": "Liverpool FC",
+      "date_iso": "2026-09-04T19:00:00Z"
     },
     {
-      "id": "PD-564640",
-      "competition": "Primera Division",
-      "home": "Málaga CF",
-      "away": "RC Deportivo La Coruña",
-      "date_iso": "2026-08-24T19:30:00Z"
+      "id": "PL-560571",
+      "competition": "Premier League",
+      "home": "Newcastle United FC",
+      "away": "AFC Bournemouth",
+      "date_iso": "2026-09-05T11:30:00Z"
     },
     {
-      "id": "PD-564637",
-      "competition": "Primera Division",
-      "home": "Valencia CF",
-      "away": "Real Betis Balompié",
-      "date_iso": "2026-08-25T19:00:00Z"
+      "id": "PL-560562",
+      "competition": "Premier League",
+      "home": "Nottingham Forest FC",
+      "away": "Tottenham Hotspur FC",
+      "date_iso": "2026-09-05T14:00:00Z"
     },
     {
-      "id": "PD-564631",
-      "competition": "Primera Division",
-      "home": "Real Madrid CF",
-      "away": "Real Sociedad de Fútbol",
-      "date_iso": "2026-08-26T19:00:00Z"
+      "id": "PL-560563",
+      "competition": "Premier League",
+      "home": "Manchester City FC",
+      "away": "Coventry City FC",
+      "date_iso": "2026-09-05T14:00:00Z"
     },
     {
-      "id": "PD-564636",
-      "competition": "Primera Division",
-      "home": "RC Celta de Vigo",
-      "away": "CA Osasuna",
-      "date_iso": "2026-08-27T18:30:00Z"
+      "id": "PL-560564",
+      "competition": "Premier League",
+      "home": "Brighton & Hove Albion FC",
+      "away": "Leeds United FC",
+      "date_iso": "2026-09-05T14:00:00Z"
     },
     {
-      "id": "PD-564630",
-      "competition": "Primera Division",
-      "home": "FC Barcelona",
-      "away": "Athletic Club",
-      "date_iso": "2026-08-27T19:00:00Z"
+      "id": "PL-560565",
+      "competition": "Premier League",
+      "home": "Brentford FC",
+      "away": "Sunderland AFC",
+      "date_iso": "2026-09-05T14:00:00Z"
     },
     {
-      "id": "PD-564654",
-      "competition": "Primera Division",
-      "home": "Real Racing Club de Santander",
-      "away": "Elche CF",
-      "date_iso": "2026-08-28T17:00:00Z"
+      "id": "PL-560568",
+      "competition": "Premier League",
+      "home": "Fulham FC",
+      "away": "Crystal Palace FC",
+      "date_iso": "2026-09-05T14:00:00Z"
     },
     {
-      "id": "PD-564648",
-      "competition": "Primera Division",
-      "home": "Deportivo Alavés",
-      "away": "Villarreal CF",
-      "date_iso": "2026-08-28T19:30:00Z"
+      "id": "PL-560569",
+      "competition": "Premier League",
+      "home": "Hull City AFC",
+      "away": "Aston Villa FC",
+      "date_iso": "2026-09-05T16:30:00Z"
     },
     {
-      "id": "PD-564655",
-      "competition": "Primera Division",
-      "home": "Levante UD",
-      "away": "Real Betis Balompié",
-      "date_iso": "2026-08-29T15:00:00Z"
+      "id": "PL-560567",
+      "competition": "Premier League",
+      "home": "Everton FC",
+      "away": "Manchester United FC",
+      "date_iso": "2026-09-06T13:00:00Z"
     },
     {
-      "id": "PD-564653",
-      "competition": "Primera Division",
-      "home": "Real Sociedad de Fútbol",
-      "away": "RCD Espanyol de Barcelona",
-      "date_iso": "2026-08-29T17:00:00Z"
-    },
-    {
-      "id": "PD-564649",
-      "competition": "Primera Division",
-      "home": "Sevilla FC",
-      "away": "Club Atlético de Madrid",
-      "date_iso": "2026-08-29T19:30:00Z"
-    },
-    {
-      "id": "PD-564656",
-      "competition": "Primera Division",
-      "home": "Real Madrid CF",
-      "away": "Málaga CF",
-      "date_iso": "2026-08-30T15:00:00Z"
-    },
-    {
-      "id": "PD-564651",
-      "competition": "Primera Division",
-      "home": "RC Deportivo La Coruña",
-      "away": "Valencia CF",
-      "date_iso": "2026-08-30T17:30:00Z"
-    },
-    {
-      "id": "PD-564652",
-      "competition": "Primera Division",
-      "home": "RC Celta de Vigo",
-      "away": "Athletic Club",
-      "date_iso": "2026-08-30T19:30:00Z"
+      "id": "PL-560570",
+      "competition": "Premier League",
+      "home": "Arsenal FC",
+      "away": "Chelsea FC",
+      "date_iso": "2026-09-06T15:30:00Z"
     },
     {
       "id": "PD-564657",
@@ -192,74 +94,81 @@
       "date_iso": "2026-08-31T19:30:00Z"
     },
     {
-      "id": "SA-558630",
-      "competition": "Serie A",
-      "home": "Bologna FC 1909",
-      "away": "SS Lazio",
-      "date_iso": "2026-08-24T16:30:00Z"
+      "id": "PD-564682",
+      "competition": "Primera Division",
+      "home": "Real Sociedad de Fútbol",
+      "away": "RC Celta de Vigo",
+      "date_iso": "2026-09-03T19:00:00Z"
     },
     {
-      "id": "SA-558638",
-      "competition": "Serie A",
-      "home": "AS Roma",
-      "away": "ACF Fiorentina",
-      "date_iso": "2026-08-24T18:45:00Z"
+      "id": "PD-564667",
+      "competition": "Primera Division",
+      "home": "Real Betis Balompié",
+      "away": "Real Madrid CF",
+      "date_iso": "2026-09-04T19:00:00Z"
     },
     {
-      "id": "SA-558625",
-      "competition": "Serie A",
-      "home": "AC Milan",
-      "away": "Venezia FC",
-      "date_iso": "2026-08-28T18:45:00Z"
+      "id": "PD-564663",
+      "competition": "Primera Division",
+      "home": "Athletic Club",
+      "away": "Club Atlético de Madrid",
+      "date_iso": "2026-09-05T14:15:00Z"
     },
     {
-      "id": "SA-558620",
-      "competition": "Serie A",
-      "home": "US Sassuolo Calcio",
-      "away": "Torino FC",
-      "date_iso": "2026-08-29T16:30:00Z"
+      "id": "PD-564660",
+      "competition": "Primera Division",
+      "home": "Rayo Vallecano de Madrid",
+      "away": "Real Racing Club de Santander",
+      "date_iso": "2026-09-05T16:30:00Z"
     },
     {
-      "id": "SA-558624",
-      "competition": "Serie A",
-      "home": "AC Monza",
-      "away": "Udinese Calcio",
-      "date_iso": "2026-08-29T16:30:00Z"
+      "id": "PD-564662",
+      "competition": "Primera Division",
+      "home": "Villarreal CF",
+      "away": "RC Deportivo La Coruña",
+      "date_iso": "2026-09-05T19:00:00Z"
     },
     {
-      "id": "SA-558627",
-      "competition": "Serie A",
-      "home": "ACF Fiorentina",
-      "away": "Frosinone Calcio",
-      "date_iso": "2026-08-29T16:30:00Z"
+      "id": "PD-564659",
+      "competition": "Primera Division",
+      "home": "Valencia CF",
+      "away": "FC Barcelona",
+      "date_iso": "2026-09-06T14:15:00Z"
     },
     {
-      "id": "SA-558619",
-      "competition": "Serie A",
-      "home": "Juventus FC",
-      "away": "Parma Calcio 1913",
-      "date_iso": "2026-08-29T18:45:00Z"
+      "id": "PD-564664",
+      "competition": "Primera Division",
+      "home": "Deportivo Alavés",
+      "away": "CA Osasuna",
+      "date_iso": "2026-09-06T16:30:00Z"
     },
     {
-      "id": "SA-558626",
-      "competition": "Serie A",
-      "home": "SSC Napoli",
-      "away": "Como 1907",
-      "date_iso": "2026-08-30T16:30:00Z"
+      "id": "PD-564666",
+      "competition": "Primera Division",
+      "home": "Málaga CF",
+      "away": "Levante UD",
+      "date_iso": "2026-09-06T16:30:00Z"
     },
     {
-      "id": "SA-558622",
-      "competition": "Serie A",
-      "home": "SS Lazio",
-      "away": "Genoa CFC",
-      "date_iso": "2026-08-30T18:45:00Z"
+      "id": "PD-564661",
+      "competition": "Primera Division",
+      "home": "RCD Espanyol de Barcelona",
+      "away": "Sevilla FC",
+      "date_iso": "2026-09-06T19:00:00Z"
     },
     {
-      "id": "SA-558623",
-      "competition": "Serie A",
-      "home": "Cagliari Calcio",
-      "away": "FC Internazionale Milano",
-      "date_iso": "2026-08-30T18:45:00Z"
+      "id": "PD-564665",
+      "competition": "Primera Division",
+      "home": "Getafe CF",
+      "away": "RC Celta de Vigo",
+      "date_iso": "2026-09-07T17:00:00Z"
+    },
+    {
+      "id": "PD-564658",
+      "competition": "Primera Division",
+      "home": "Elche CF",
+      "away": "Real Sociedad de Fútbol",
+      "date_iso": "2026-09-07T19:30:00Z"
     },
     {
       "id": "SA-558621",
@@ -276,130 +185,200 @@
       "date_iso": "2026-08-31T18:45:00Z"
     },
     {
-      "id": "BL1-565776",
-      "competition": "Bundesliga",
-      "home": "FC Bayern München",
-      "away": "VfB Stuttgart",
-      "date_iso": "2026-08-28T18:30:00Z"
+      "id": "SA-558609",
+      "competition": "Serie A",
+      "home": "Genoa CFC",
+      "away": "Como 1907",
+      "date_iso": "2026-09-04T18:45:00Z"
     },
     {
-      "id": "BL1-565777",
-      "competition": "Bundesliga",
-      "home": "RB Leipzig",
-      "away": "Borussia Mönchengladbach",
-      "date_iso": "2026-08-29T13:30:00Z"
+      "id": "SA-558616",
+      "competition": "Serie A",
+      "home": "ACF Fiorentina",
+      "away": "Torino FC",
+      "date_iso": "2026-09-05T13:00:00Z"
     },
     {
-      "id": "BL1-565778",
-      "competition": "Bundesliga",
-      "home": "1. FSV Mainz 05",
-      "away": "SC Paderborn 07",
-      "date_iso": "2026-08-29T13:30:00Z"
+      "id": "SA-558614",
+      "competition": "Serie A",
+      "home": "FC Internazionale Milano",
+      "away": "SSC Napoli",
+      "date_iso": "2026-09-05T16:00:00Z"
     },
     {
-      "id": "BL1-565779",
-      "competition": "Bundesliga",
-      "home": "1. FC Union Berlin",
-      "away": "Eintracht Frankfurt",
-      "date_iso": "2026-08-29T13:30:00Z"
+      "id": "SA-558611",
+      "competition": "Serie A",
+      "home": "AS Roma",
+      "away": "Atalanta BC",
+      "date_iso": "2026-09-05T18:45:00Z"
     },
     {
-      "id": "BL1-565780",
-      "competition": "Bundesliga",
-      "home": "SV 07 Elversberg",
-      "away": "Bayer 04 Leverkusen",
-      "date_iso": "2026-08-29T13:30:00Z"
+      "id": "SA-558612",
+      "competition": "Serie A",
+      "home": "Parma Calcio 1913",
+      "away": "AC Monza",
+      "date_iso": "2026-09-06T13:00:00Z"
     },
     {
-      "id": "BL1-565783",
-      "competition": "Bundesliga",
-      "home": "1. FC Köln",
-      "away": "TSG 1899 Hoffenheim",
-      "date_iso": "2026-08-29T13:30:00Z"
+      "id": "SA-558615",
+      "competition": "Serie A",
+      "home": "Frosinone Calcio",
+      "away": "Venezia FC",
+      "date_iso": "2026-09-06T13:00:00Z"
     },
     {
-      "id": "BL1-565781",
-      "competition": "Bundesliga",
-      "home": "Borussia Dortmund",
-      "away": "Hamburger SV",
-      "date_iso": "2026-08-29T16:30:00Z"
+      "id": "SA-558613",
+      "competition": "Serie A",
+      "home": "Bologna FC 1909",
+      "away": "US Sassuolo Calcio",
+      "date_iso": "2026-09-06T16:00:00Z"
     },
     {
-      "id": "BL1-565784",
-      "competition": "Bundesliga",
-      "home": "SC Freiburg",
-      "away": "SV Werder Bremen",
-      "date_iso": "2026-08-30T13:30:00Z"
+      "id": "SA-558618",
+      "competition": "Serie A",
+      "home": "Juventus FC",
+      "away": "AC Milan",
+      "date_iso": "2026-09-06T18:45:00Z"
     },
     {
-      "id": "BL1-565782",
-      "competition": "Bundesliga",
-      "home": "FC Augsburg",
-      "away": "FC Schalke 04",
-      "date_iso": "2026-08-30T15:30:00Z"
+      "id": "SA-558610",
+      "competition": "Serie A",
+      "home": "Cagliari Calcio",
+      "away": "US Lecce",
+      "date_iso": "2026-09-07T16:30:00Z"
     },
     {
-      "id": "FL1-559702",
+      "id": "SA-558617",
+      "competition": "Serie A",
+      "home": "Udinese Calcio",
+      "away": "SS Lazio",
+      "date_iso": "2026-09-07T18:45:00Z"
+    },
+    {
+      "id": "BL1-565791",
+      "competition": "Bundesliga",
+      "home": "VfB Stuttgart",
+      "away": "1. FC Köln",
+      "date_iso": "2026-09-04T18:30:00Z"
+    },
+    {
+      "id": "BL1-565785",
+      "competition": "Bundesliga",
+      "home": "SV Werder Bremen",
+      "away": "RB Leipzig",
+      "date_iso": "2026-09-05T13:30:00Z"
+    },
+    {
+      "id": "BL1-565787",
+      "competition": "Bundesliga",
+      "home": "TSG 1899 Hoffenheim",
+      "away": "Borussia Dortmund",
+      "date_iso": "2026-09-05T13:30:00Z"
+    },
+    {
+      "id": "BL1-565790",
+      "competition": "Bundesliga",
+      "home": "Bayer 04 Leverkusen",
+      "away": "1. FC Union Berlin",
+      "date_iso": "2026-09-05T13:30:00Z"
+    },
+    {
+      "id": "BL1-565792",
+      "competition": "Bundesliga",
+      "home": "Borussia Mönchengladbach",
+      "away": "SV 07 Elversberg",
+      "date_iso": "2026-09-05T13:30:00Z"
+    },
+    {
+      "id": "BL1-565793",
+      "competition": "Bundesliga",
+      "home": "SC Paderborn 07",
+      "away": "SC Freiburg",
+      "date_iso": "2026-09-05T13:30:00Z"
+    },
+    {
+      "id": "BL1-565789",
+      "competition": "Bundesliga",
+      "home": "FC Schalke 04",
+      "away": "FC Bayern München",
+      "date_iso": "2026-09-05T16:30:00Z"
+    },
+    {
+      "id": "BL1-565788",
+      "competition": "Bundesliga",
+      "home": "Hamburger SV",
+      "away": "1. FSV Mainz 05",
+      "date_iso": "2026-09-06T13:30:00Z"
+    },
+    {
+      "id": "BL1-565786",
+      "competition": "Bundesliga",
+      "home": "Eintracht Frankfurt",
+      "away": "FC Augsburg",
+      "date_iso": "2026-09-06T15:30:00Z"
+    },
+    {
+      "id": "FL1-559696",
       "competition": "Ligue 1",
-      "home": "Lille OSC",
-      "away": "Paris Saint-Germain FC",
-      "date_iso": "2026-08-28T18:45:00Z"
+      "home": "Toulouse FC",
+      "away": "Lille OSC",
+      "date_iso": "2026-09-03T18:45:00Z"
     },
     {
-      "id": "FL1-559704",
-      "competition": "Ligue 1",
-      "home": "RC Strasbourg Alsace",
-      "away": "Racing Club de Lens",
-      "date_iso": "2026-08-29T15:15:00Z"
-    },
-    {
-      "id": "FL1-559705",
-      "competition": "Ligue 1",
-      "home": "FC Lorient",
-      "away": "ES Troyes AC",
-      "date_iso": "2026-08-29T18:45:00Z"
-    },
-    {
-      "id": "FL1-559706",
+      "id": "FL1-559699",
       "competition": "Ligue 1",
       "home": "Olympique Lyonnais",
-      "away": "Le Havre AC",
-      "date_iso": "2026-08-29T18:45:00Z"
+      "away": "AJ Auxerre",
+      "date_iso": "2026-09-04T17:00:00Z"
     },
     {
-      "id": "FL1-559708",
+      "id": "FL1-559697",
       "competition": "Ligue 1",
-      "home": "AJ Auxerre",
-      "away": "Angers SCO",
-      "date_iso": "2026-08-29T18:45:00Z"
+      "home": "Paris Saint-Germain FC",
+      "away": "AS Monaco FC",
+      "date_iso": "2026-09-04T19:05:00Z"
     },
     {
-      "id": "FL1-559710",
+      "id": "FL1-559695",
       "competition": "Ligue 1",
-      "home": "Stade Brestois 29",
-      "away": "Toulouse FC",
-      "date_iso": "2026-08-29T18:45:00Z"
+      "home": "Racing Club de Lens",
+      "away": "FC Lorient",
+      "date_iso": "2026-09-05T15:15:00Z"
     },
     {
-      "id": "FL1-559707",
+      "id": "FL1-559693",
       "competition": "Ligue 1",
-      "home": "Paris FC",
-      "away": "OGC Nice",
-      "date_iso": "2026-08-30T13:00:00Z"
+      "home": "Le Havre AC",
+      "away": "Stade Brestois 29",
+      "date_iso": "2026-09-05T18:45:00Z"
     },
     {
-      "id": "FL1-559709",
+      "id": "FL1-559701",
       "competition": "Ligue 1",
-      "home": "Stade Rennais FC 1901",
+      "home": "OGC Nice",
       "away": "Le Mans FC",
-      "date_iso": "2026-08-30T15:15:00Z"
+      "date_iso": "2026-09-05T18:45:00Z"
     },
     {
-      "id": "FL1-559703",
+      "id": "FL1-559700",
       "competition": "Ligue 1",
-      "home": "AS Monaco FC",
-      "away": "Olympique de Marseille",
-      "date_iso": "2026-08-30T18:45:00Z"
+      "home": "ES Troyes AC",
+      "away": "RC Strasbourg Alsace",
+      "date_iso": "2026-09-06T13:00:00Z"
+    },
+    {
+      "id": "FL1-559698",
+      "competition": "Ligue 1",
+      "home": "Angers SCO",
+      "away": "Stade Rennais FC 1901",
+      "date_iso": "2026-09-06T15:15:00Z"
+    },
+    {
+      "id": "FL1-559694",
+      "competition": "Ligue 1",
+      "home": "Olympique de Marseille",
+      "away": "Paris FC",
+      "date_iso": "2026-09-06T18:45:00Z"
     }
   ]
 }
